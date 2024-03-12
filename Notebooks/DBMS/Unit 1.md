@@ -3,7 +3,7 @@
 
 A **database** is a collection of related data.1 By data, we mean known facts that can be recorded and that have implicit meaning. For example, consider the names, elephone numbers, and addresses of the people you know. You may have recorded this data in an indexed address book or you may have stored it on a hard drive, using a personal computer and software such as Microsoft Access or Excel. This collection of related data with an implicit meaning is a database.
 
-![](Pasted%20image%2020240312232339.png)
+![](../../Images/Pasted%20image%2020240312232339.png)
 
 DB properties:
 - A database represents some aspect of the real world, sometimes called the mini-world or the universe of discourse (UoD). Changes to the mini-world are reflected in the database.
@@ -19,8 +19,7 @@ A database management system (DBMS) is a collection of programs that enables use
 
 ### **Case study**
 
-![](Pasted%20image%2020240312234809.png)
-
+![](../../Images/Pasted%20image%2020240312234809.png)
 
 - To define this database, we must specify the structure of the records of each file by specifying the different types of data elements to be stored in each record. We must also specify a data type for each data element within a record.
 - To construct the UNIVERSITY database, we store data to represent each student, course, section, grade report, and prerequisite as a record in the appropriate file.
