@@ -1,9 +1,11 @@
 {
   "accentColor": "",
   "theme": "moonstone",
-  "interfaceFontFamily": "",
+  "interfaceFontFamily": "IBM Plex Serif",
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "justify"
-  ]
+  ],
+  "textFontFamily": "IBM Plex Sans",
+  "monospaceFontFamily": "IBM Plex Mono"
 }

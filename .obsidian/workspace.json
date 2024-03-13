@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fb5ec189ffb4478d",
+        "id": "df18e6c241955b3d",
         "type": "tabs",
         "children": [
           {
-            "id": "7573cece25e2845e",
+            "id": "d08ddfbc0935e7a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notebooks/DBMS/Unit 1.md",
+                "file": "Quick Notes/MoM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebooks/DBMS/Unit 1.md",
+                "file": "Quick Notes/MoM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notebooks/DBMS/Unit 1.md",
+                "file": "Quick Notes/MoM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebooks/DBMS/Unit 1.md"
+                "file": "Quick Notes/MoM.md"
               }
             }
           }
@@ -146,11 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a941884761c372a",
+  "active": "d08ddfbc0935e7a1",
   "lastOpenFiles": [
+    "Notebooks/DBMS/Unit 1.md",
+    "Quick Notes/MoM.md",
+    "Quick Notes",
     "Notebooks/DBMS/Database Meta.md",
     "README.md",
-    "Notebooks/DBMS/Unit 1.md",
     "Notebooks/DBMS",
     "Notebooks",
     "Images/Pasted image 20240312234809.png",
@@ -170,7 +172,6 @@
     "ts",
     "Sync/Notebooks",
     "Sync/Sync/temp",
-    "Sync/Sync",
-    "Sync"
+    "Sync/Sync"
   ]
 }
