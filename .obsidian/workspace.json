@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick Notes/MoM.md",
+                "file": "Notebooks/DBMS/Unit 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quick Notes/MoM.md",
+                "file": "Notebooks/DBMS/Unit 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quick Notes/MoM.md",
+                "file": "Notebooks/DBMS/Unit 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quick Notes/MoM.md"
+                "file": "Notebooks/DBMS/Unit 1.md"
               }
             }
           }
@@ -148,15 +148,16 @@
   },
   "active": "d08ddfbc0935e7a1",
   "lastOpenFiles": [
-    "Notebooks/DBMS/Unit 1.md",
+    "Images/Pasted image 20240313225233.png",
+    "Images/Pasted image 20240312232339.png",
+    "Images/Pasted image 20240312234809.png",
     "Quick Notes/MoM.md",
+    "Notebooks/DBMS/Unit 1.md",
     "Quick Notes",
     "Notebooks/DBMS/Database Meta.md",
     "README.md",
     "Notebooks/DBMS",
     "Notebooks",
-    "Images/Pasted image 20240312234809.png",
-    "Images/Pasted image 20240312232339.png",
     "Images",
     "Sync/Notebooks/DBMS/Unit 1.md",
     "Sync/Notebooks/DBMS/Database Meta.md",

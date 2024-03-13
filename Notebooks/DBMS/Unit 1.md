@@ -19,7 +19,7 @@ A database management system (DBMS) is a collection of programs that enables use
 
 ### **Case study**
 
-![](../../Images/Pasted%20image%2020240312234809.png)
+![](../../Images/Pasted%20image%2020240313225233.png)
 
 - To define this database, we must specify the structure of the records of each file by specifying the different types of data elements to be stored in each record. We must also specify a data type for each data element within a record.
 - To construct the UNIVERSITY database, we store data to represent each student, course, section, grade report, and prerequisite as a record in the appropriate file.
@@ -29,4 +29,12 @@ A database management system (DBMS) is a collection of programs that enables use
 	- List the prerequisites of the ‘Database’ course
 
 
- Design of a new application for an existing database or design of a brand new database starts off with a phase called requirements specification and analysis. These requirements are documented in detail and transformed into a conceptual design that can be represented and manipulated using some computerized tools so that it can be easily maintained, modified, and transformed into a database implementation. The design is then translated to a logical design that can be expressed in a data model implemented in a commercial DBMS. The final stage is physical design, during which further specifications are provided for storing and accessing the database. The database design is implemented, populated with actual data, and continuously maintained to reflect the state of the mini-world. 
+ Design of a new application for an existing database or design of a brand new database starts off with a phase called **requirements specification and analysis**. These requirements are documented in detail and transformed into a **conceptual design** that can be represented and manipulated using some computerized tools so that it can be easily maintained, modified, and transformed into a database implementation. The design is then translated to a **logical design** that can be expressed in a data model implemented in a commercial DBMS. The final stage is **physical design**, during which further specifications are provided for storing and accessing the database. The database design is implemented, populated with actual data, and continuously maintained to reflect the state of the mini-world. 
+
+In traditional file processing, each user defines and implements the files needed for a specific software application as part of programming the application. In the database approach, a single repository maintains data that is defined once and then accessed by various users. In file systems, each application is free to name data elements independently. In contrast, in a database, the names or labels of data are defined once, and used repeatedly by queries, transactions, and applications.
+
+The main characteristics of the database approach
+Self-describing nature of a database system
+Insulation between programs and data, and data abstraction
+Support of multiple views of the data
+Sharing of data and multi-user transaction processing
