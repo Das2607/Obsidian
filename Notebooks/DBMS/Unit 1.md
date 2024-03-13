@@ -28,6 +28,7 @@ A database management system (DBMS) is a collection of programs that enables use
 	- List the names of students who took the section of the ‘Database’ course offered in fall 2008 and their grades in that section
 	- List the prerequisites of the ‘Database’ course
 
+### Characteristics of the Database Approach
 
  Design of a new application for an existing database or design of a brand new database starts off with a phase called **requirements specification and analysis**. These requirements are documented in detail and transformed into a **conceptual design** that can be represented and manipulated using some computerized tools so that it can be easily maintained, modified, and transformed into a database implementation. The design is then translated to a **logical design** that can be expressed in a data model implemented in a commercial DBMS. The final stage is **physical design**, during which further specifications are provided for storing and accessing the database. The database design is implemented, populated with actual data, and continuously maintained to reflect the state of the mini-world. 
 
@@ -39,3 +40,7 @@ The main characteristics of the database approach
 - Support of multiple views of the data
 - Sharing of data and multi-user transaction processing
 
+#### Self-Describing Nature of a Database System
+
+A fundamental characteristic of the database approach is that the database system contains not only the database itself but also a complete definition or description of
+the database structure and constraints. This definition is stored in the DBMS catalog, which contains information such as the structure of each file, the type and storage format of each data item, and various constraints on the data. The information stored in the catalog is called meta-data, and it describes the structure of the primary database.
