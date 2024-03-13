@@ -34,7 +34,8 @@ A database management system (DBMS) is a collection of programs that enables use
 In traditional file processing, each user defines and implements the files needed for a specific software application as part of programming the application. In the database approach, a single repository maintains data that is defined once and then accessed by various users. In file systems, each application is free to name data elements independently. In contrast, in a database, the names or labels of data are defined once, and used repeatedly by queries, transactions, and applications.
 
 The main characteristics of the database approach
-Self-describing nature of a database system
-Insulation between programs and data, and data abstraction
-Support of multiple views of the data
-Sharing of data and multi-user transaction processing
+- Self-describing nature of a database system
+- Insulation between programs and data, and data abstraction
+- Support of multiple views of the data
+- Sharing of data and multi-user transaction processing
+
